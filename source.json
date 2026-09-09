@@ -2,17 +2,17 @@
   "name": "Fonte de Teste",
   "identifier": "com.exemplo.altstoretest.source",
   "subtitle": "Fonte de teste para o app AltStore Test",
-  "website": "https://github.com/SEU-USUARIO/SEU-REPO",
-  "iconURL": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/app-icon.png",
+  "website": "https://github.com/GabrielGit25/projeto-iOS",
+  "iconURL": "https://raw.githubusercontent.com/GabrielGit25/projeto-iOS/main/assets/app-icon.png",
   "tintColor": "#0A66FF",
   "apps": [
     {
       "name": "AltStore Test",
-      "bundleIdentifier": "com.exemplo.altstoretest",
-      "developerName": "Seu Nome",
+      "bundleIdentifier": "com.gabrielgit25.altstoretest",
+      "developerName": "Gabriel",
       "subtitle": "Um app simples de teste para o AltStore",
       "localizedDescription": "Um app minimalista em SwiftUI usado para testar a publicacao de apps via AltStore, sem conta de desenvolvedor da Apple.",
-      "iconURL": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/app-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/GabrielGit25/projeto-iOS/main/assets/app-icon.png",
       "tintColor": "#0A66FF",
       "category": "utilities",
       "versions": [
@@ -20,7 +20,7 @@
           "version": "1.0",
           "date": "2026-09-08",
           "localizedDescription": "Primeira versao publicada no AltStore.",
-          "downloadURL": "https://github.com/SEU-USUARIO/SEU-REPO/releases/download/v1.0.0/AltStoreTest.ipa",
+          "downloadURL": "https://github.com/GabrielGit25/projeto-iOS/releases/download/v1.0.0/AltStoreTest.ipa",
           "minOSVersion": "15.0"
         }
       ]
