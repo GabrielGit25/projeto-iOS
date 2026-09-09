@@ -1,0 +1,14 @@
+# Xcode
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Empacotamento
+Payload/
+*.ipa
+*.zip
